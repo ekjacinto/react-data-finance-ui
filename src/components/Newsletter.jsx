@@ -13,7 +13,7 @@ const Newsletter = () => {
             <input className="p-3 flex w-full rounded-md text-black" type="email" placeholder="Enter Email" />
             <button className="bg-[#00df9a] w-[200px] rounded-md font-medium ml-4 my-6 px-6 py-3 text-black">Notify Me</button>
           </div>
-          <p>We care about the protection of your data. Read our <span className="text-[#00df9a]">Privacy Policy.</span></p>
+          <p>We care about the protection of your data. Read our <span className="text-[#00df9a] hover:cursor-pointer">Privacy Policy.</span></p>
         </div>
       </div>
     </section>

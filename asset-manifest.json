@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-data-finance-ui/static/css/main.8e73ccf2.css",
+    "main.js": "/react-data-finance-ui/static/js/main.d9ed9418.js",
+    "static/media/laptop.jpg": "/react-data-finance-ui/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/react-data-finance-ui/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/react-data-finance-ui/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/react-data-finance-ui/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/react-data-finance-ui/index.html",
+    "main.8e73ccf2.css.map": "/react-data-finance-ui/static/css/main.8e73ccf2.css.map",
+    "main.d9ed9418.js.map": "/react-data-finance-ui/static/js/main.d9ed9418.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e73ccf2.css",
+    "static/js/main.d9ed9418.js"
+  ]
+}

@@ -4,6 +4,9 @@ React Data Finance is my attempt at creating a homepage for a data analytics pla
 while practicing practices such as media queries and technologies such as
 ReactJS and TailwindCSS.
 
+<img src="https://imgur.com/GebxciV.png" width="30%" height="auto">\
+<img src="https://imgur.com/7lGvG86.png" width="30%" height="auto">
+
 # Dependecies
 
 ## Getting Started with Create React App
